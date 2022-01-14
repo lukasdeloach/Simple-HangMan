@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 /**
  * Driver Class that contains the main method to run the game. 
